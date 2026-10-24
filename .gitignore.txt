@@ -1,0 +1,16 @@
+# Power BI temporary/backup files
+*.pbit
+*.tmp
+*.bak
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.temp
+*.log
+
+# IDE/editor files
+.vscode/
+.idea/
